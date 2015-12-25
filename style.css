@@ -1,0 +1,30 @@
+body {
+background-image: url("guneet.jpg")
+}
+
+font {
+size: 20;
+}
+
+img{
+border-style: inset;
+border-color: blue;
+}
+
+a:link{
+color: purple
+text-decoration: none
+}
+
+a:visited{
+color: blue
+}
+
+a:hover{
+color: teal
+}
+
+a:active{
+color: 87cefa
+}
+
